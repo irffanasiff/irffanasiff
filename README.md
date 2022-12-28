@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Web3 Developer working Remotely
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://snappy-plugin.net);
+- ✨ Crafted last [Snappy AI](https://snappy-plugin.net);
 - 🥊 Currently Building [Cubic](https://twitter.com/CubicFund);
 - 🍑 What about this?
 
