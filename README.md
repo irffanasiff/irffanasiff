@@ -4,7 +4,7 @@
 ##### NOW
 
 - ✨ Crafted last [Snappy AI](https://snappy-plugin.net);
-- 🥊 Currently Building [Cubic](https://twitter.com/_CUBIK);
+- 🥊 Currently Building [Cubik](https://twitter.com/_CUBIK);
 - 🍑 What about this?
 
 ##### BIO
